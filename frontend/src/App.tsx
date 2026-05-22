@@ -1,5 +1,5 @@
 /**
- * App shell.
+ * App shell...
  * Tiny home-rolled router (just `pathname` + `history.pushState`) — react-router
  * would be overkill for three routes, and the audience can read it in 20 seconds.
  * The header is the only shared chrome; pages render inside <main>.
